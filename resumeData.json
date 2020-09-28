@@ -1,0 +1,80 @@
+{
+  "main": {
+    "image": "IG_AMRIT.jpg",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "resumedownload": "http://server2.pdfexport.net/Download.aspx?document=743d2a584bef4267b218b8d5527b61ff",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/amrit-singh-79988729/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/amrit-09",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "expmessage": "I possess a wide range of skills, knowledge and experience which I have gained through academic study, work, team as well as working on projects independently.  ",
+    "education": [
+      {
+        "school": "University of the West of Scotland",
+        "degree": "BSc in Computer Science",
+        "graduated": "September 2014 - July 2017",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Glasgow Clyde College",
+        "degree": "Higher National Diploma in Software Development",
+        "graduated": "September 2013 - May 2014",
+        "description": "Skilled in developing relational databases in Oracle, MySQL, Microsoft Access 2010 - maintaining databases "
+      },
+
+      {
+        "school": "Glasgow Clyde College",
+        "degree": "Higher National Cercificate in Computer Software",
+        "graduated": "September 2012 - June 2013"
+      }
+    ],
+
+    "work": [
+      {
+        "company": "Access Group Ltd",
+        "title": "Software Analyst",
+        "years": "March 2019 - November 2019",
+        "description": "Prodiving Software knowledge to Non-profit organisation through our Visitor Attraction Management Software GAMMA.",
+        "url": "https://www.theaccessgroup.com/visitor-management-system/"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "COVID-19 Tracker | Build with ReactJS ",
+        "category": "COVID-19 Tracker, Provides the user with real time data to view live cases through the world",
+        "image": "COVID-19.jpeg",
+        "url": "https://covid-19-tracker-9caae.web.app/"
+      },
+      {
+        "title": "Amazon Home Page | Build with ReactJS",
+        "category": "Amazon Front page app, User Authentication",
+        "image": "AMZ.JPEG",
+        "url": "https://clone-acb5b.web.app/"
+      },
+      {
+        "title": "Amrit's Portfolio | Build with ReactJS",
+        "category": "Portfolio I created to gain further experience using HTML/CSS & JS",
+        "image": "PortfolioIMG.jpg",
+        "url": "https://infallible-jones-211f9c.netlify.app/"
+      },
+      {
+        "title": "Movies App | Build with ReactJS",
+        "category": "Web Design that allows the user to search for a wide range of films",
+        "image": "MOVIES.jpeg",
+        "url": "https://happy-bhaskara-d9a452.netlify.app/"
+      }
+    ]
+  }
+}
